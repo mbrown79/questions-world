@@ -1,0 +1,70 @@
+body {
+	font-family: helvetica, serif;
+	text-align: center;
+	background-color: #3B2F6A;
+	color: white;
+}
+
+h1, h2 {
+	margin-bottom: 70px;
+}
+
+
+h3 {
+	margin-bottom : 40px;
+}
+
+a {
+	color: #FEC9E4;
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
+
+a:hover {
+	color: red;
+}
+/*
+a:visited {
+	color: #EE78B5;
+}
+*/
+
+.cover {
+	display: flex;
+	height: 400px;
+	width: 400px;
+	margin-bottom: 150px;
+	transition: all 0.3s ease;
+}
+
+.cover:hover{
+	transform: scale(1.1);
+}
+
+.singles {
+	
+}
+
+.albums {
+	display: block;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.fa-instagram {
+	height: 50px;
+	width: 50px;
+	color: #FEC9E4;
+}
+
+.questionmark {
+	height: 50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	margin-bottom: 20px;
+}
