@@ -86,6 +86,11 @@ a:visited {
 	width: 120px;
 	margin: 150px auto 0;
 	display: block;
+	transition: all 0.3s ease;
+}
+
+.instagram:hover {
+	transform: scale(1.1);
 }
 
 .fa-instagram {
@@ -102,3 +107,4 @@ a:visited {
 	margin-top: 100px;
 	margin-bottom: 20px;
 }
+
