@@ -38,7 +38,11 @@ h3 {
 	color: red;
 }
 */
-a:visited {
+.music-link a:link {
+	color: inherit;
+}
+
+.music-link a:visited {
 	color: inherit;
 }
 
@@ -107,5 +111,6 @@ a:visited {
 	margin-top: 100px;
 	margin-bottom: 20px;
 }
+
 
 
