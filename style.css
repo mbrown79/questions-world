@@ -7,7 +7,8 @@ body {
 }
 
 h1 {
-	font-family: nabla;
+	font-family: nabla, "Press Start 2P";
+	color: gold;
 	font-size: 80px;
 }
 
@@ -156,3 +157,4 @@ h3 {
     #content.show {
       display: block;
     }
+
