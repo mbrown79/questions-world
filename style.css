@@ -7,9 +7,9 @@ body {
 }
 
 h1 {
-	font-family: nabla, "Press Start 2P";
-	color: gold;
-	font-size: 80px;
+	font-family: /*nabla, */"Press Start 2P";
+	color: #ff9fcb;
+	font-size: 60px;
 }
 
 h1, h2 {
