@@ -9,7 +9,19 @@ body {
 h1 {
 	font-family: /*nabla, */"Press Start 2P";
 	color: #ff9fcb;
-	font-size: 3vw;
+	/*font-size: 3vw;*/
+}
+
+@media (min-width: 768px) {
+  h1 {
+    font-size: 5vw;
+  }
+}
+
+@media (min-width: 1024px) {
+  h1 {
+    font-size: 3vw;
+  }
 }
 
 h1, h2 {
